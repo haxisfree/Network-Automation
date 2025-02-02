@@ -1,8 +1,0 @@
-switchport mode trunk
-switchport protected
-switchport nonegotiate
-   mac access-group bras-mac-filter in
-load-interval 30
-no cdp enable
-spanning-tree portfast trunk
-spanning-tree bpdu

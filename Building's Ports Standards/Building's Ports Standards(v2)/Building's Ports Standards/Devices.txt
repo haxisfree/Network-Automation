@@ -1,6 +1,0 @@
-Device1 DNS Name
-Device2 DNS Name
-Device3 DNS Name
-Device4 DNS Name
-Device5 DNS Name
-Device6 DNS Name
