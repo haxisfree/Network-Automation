@@ -1,0 +1,30 @@
+HHHHHHHHH     HHHHHHHHH               AAA               XXXXXXX       XXXXXXX
+H:::::::H     H:::::::H              A:::A              X:::::X       X:::::X
+H:::::::H     H:::::::H             A:::::A             X:::::X       X:::::X
+HH::::::H     H::::::HH            A:::::::A            X::::::X     X::::::X
+  H:::::H     H:::::H             A:::::::::A           XXX:::::X   X:::::XXX
+  H:::::H     H:::::H            A:::::A:::::A             X:::::X X:::::X   
+  H::::::HHHHH::::::H           A:::::A A:::::A             X:::::X:::::X    
+  H:::::::::::::::::H          A:::::A   A:::::A             X:::::::::X     
+  H:::::::::::::::::H         A:::::A     A:::::A            X:::::::::X     
+  H::::::HHHHH::::::H        A:::::AAAAAAAAA:::::A          X:::::X:::::X    
+  H:::::H     H:::::H       A:::::::::::::::::::::A        X:::::X X:::::X   
+  H:::::H     H:::::H      A:::::AAAAAAAAAAAAA:::::A    XXX:::::X   X:::::XXX
+HH::::::H     H::::::HH   A:::::A             A:::::A   X::::::X     X::::::X
+H:::::::H     H:::::::H  A:::::A               A:::::A  X:::::X       X:::::X
+H:::::::H     H:::::::H A:::::A                 A:::::A X:::::X       X:::::X
+HHHHHHHHH     HHHHHHHHHAAAAAAA                   AAAAAAAXXXXXXX       XXXXXXX
+
+linkedin.com/in/haxit/
+amirhossein47khalil@yahoo.com
+---------------------------------------------------------------------------------                                                                             
+                                                                            
+0_ This script is for checking that some default command does exist under interfaces or not.
+1_ If interfaces are a group which have special words in their description, you can change the (show int desc | i 'the special word') part of code.
+2_ The commands file is list of commands thich does not important for blank line or white space in the begining or end of the line.
+3_ The device file is list of devices dns name which we can connect to them by their name. if you dont have DNS name for them, use IP address instead. 1 address in 1 line.
+4_ You can add any interface sub command in command's list or remove what you want.
+
+!!! This script may not work on your network because of different possible reasons, but i assure you it wont change your configurations !!!
+
+### if you need more help, please contact me with my LinkedIn or my Email ###    
